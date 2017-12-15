@@ -57,7 +57,7 @@
 		
 		.topnav a.deploymentType{
 		   float: right;
-		   color: cyan;
+		   color: green;
 		
 	</style>
 </head>
